@@ -36,6 +36,12 @@ Note, I ordered the released revisions of these boards today, for at least the n
 I have the previous revisions of these boards up and running and feel confident enough to release this,
 but there is a chance that these might need annother revision...
 
+And now a couple of days later, the boards are produced and ready to be shipped, of course something came up already
+that will make new revisions necessary.
+The next revisions will allow on both boards to connect the display backlight supply with the 5V directly.
+And I will add an inexpensive 3.3V LDO that can be populated for the logic supply.
+
+
 Before connecting any display to your controller board, make sure the board can take the additional load on the 5V!
 
 And you need to use a flat-flex-cable with connections on opposite sides.
