@@ -110,7 +110,7 @@ UniqueID=0661A9D5-E9F6-4A62-9958-21A65A1FCB72
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=16
 Variation1=Designator=C12|UniqueId=\IPUVABIU|Kind=1|AlternatePart= 
 Variation2=Designator=R1|UniqueId=\AKMENLPJ|Kind=1|AlternatePart= 
 Variation3=Designator=R13|UniqueId=\IHXGIQCT|Kind=1|AlternatePart= 
@@ -125,6 +125,8 @@ Variation11=Designator=R21|UniqueId=\UCPIZENE|Kind=1|AlternatePart=
 Variation12=Designator=R22|UniqueId=\TCOHACJI|Kind=1|AlternatePart= 
 Variation13=Designator=R23|UniqueId=\AFQNBHML|Kind=1|AlternatePart= 
 Variation14=Designator=C15|UniqueId=\LFBYAIGQ|Kind=1|AlternatePart= 
+Variation15=Designator=C8|UniqueId=\HGOGWZMC|Kind=1|AlternatePart= 
+Variation16=Designator=C10|UniqueId=\QHXLHFOP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -132,62 +134,16 @@ UniqueID=74FCE9D3-6DF6-4EFA-B3AF-AE15A00D4D7F
 Description=EVE2/EVE3 default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=8
 Variation1=Designator=C16|UniqueId=\DHGITHKD|Kind=1|AlternatePart= 
 Variation2=Designator=R24|UniqueId=\MLAQCWUY|Kind=1|AlternatePart= 
 Variation3=Designator=U6|UniqueId=\JQGZTWBP|Kind=1|AlternatePart= 
 Variation4=Designator=R13|UniqueId=\IHXGIQCT|Kind=1|AlternatePart= 
 Variation5=Designator=C12|UniqueId=\IPUVABIU|Kind=1|AlternatePart= 
 Variation6=Designator=R1|UniqueId=\AKMENLPJ|Kind=1|AlternatePart= 
+Variation7=Designator=C8|UniqueId=\HGOGWZMC|Kind=1|AlternatePart= 
+Variation8=Designator=C10|UniqueId=\QHXLHFOP|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs\L-D5019-01-05-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs\L-D5019-01-05-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs\L-D5019-01-05.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs\L-D5019-01-05.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs\L-D5019-01-05.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs\L-D5019-01-05.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs\L-D5019-01-05.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs\L-D5019-01-05.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs\L-D5019-01-05.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs\L-D5019-01-05.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs\L-D5019-01-05.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs\L-D5019-01-05.RUL
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

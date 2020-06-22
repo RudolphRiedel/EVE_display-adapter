@@ -93,10 +93,12 @@ UniqueID=0661A9D5-E9F6-4A62-9958-21A65A1FCB72
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=5
 Variation1=Designator=C12|UniqueId=\IPUVABIU|Kind=1|AlternatePart= 
 Variation2=Designator=R1|UniqueId=\AKMENLPJ|Kind=1|AlternatePart= 
 Variation3=Designator=R13|UniqueId=\IHXGIQCT|Kind=1|AlternatePart= 
+Variation4=Designator=C8|UniqueId=\HGOGWZMC|Kind=1|AlternatePart= 
+Variation5=Designator=C10|UniqueId=\QHXLHFOP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]

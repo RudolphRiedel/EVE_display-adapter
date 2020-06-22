@@ -93,11 +93,13 @@ UniqueID=47A29DDE-C1F4-43FA-B78C-1230CBA5E045
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=6
 Variation1=Designator=C12|UniqueId=\CRYPLNEG|Kind=1|AlternatePart= 
 Variation2=Designator=R1|UniqueId=\WLDANDZT|Kind=1|AlternatePart= 
 Variation3=Designator=R13|UniqueId=\OFWMHSDC|Kind=1|AlternatePart= 
 Variation4=Designator=R25|UniqueId=\IVVHOJWD|Kind=1|AlternatePart= 
+Variation5=Designator=C8|UniqueId=\LDLYDMTS|Kind=1|AlternatePart= 
+Variation6=Designator=C10|UniqueId=\BZDYFDXW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
