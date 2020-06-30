@@ -64,6 +64,6 @@ Also the maximum write speed is out of spec for both the FT813 and the BT815.
 As the target speed for these boards with Marlin is 8MHz on hardware-SPI and <2MHz on software-spi,
 I conclude that the performance of the SPI on these boards is well within the desired limits.
 
-For D5019-01-05 I changed the speaker to one that hopefully is loud enough to be heard 10m away.
-And I added the option to power the backlight with 5V and replace the 3.3V stepdown with a simple LDO.
-2020-06-14: the board is on transfer from the manufacturer
+D5019-01-05 with the 3.3V LDO works fine with a EVE3-43G that has been modified to dual supply.
+
+D5019-05-03 is ordered, it has the same 3.3V LDO and speaker as the D5019-01-05.
