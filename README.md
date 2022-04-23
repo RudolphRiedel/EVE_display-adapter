@@ -1,8 +1,7 @@
-# EVE_display-adapter
+# EVE_display-adapter for 3D printers
 
 These adapter boards connect a couple of FTDI/Bridgetek based FT81x/BT81x display modules with 3D-printer controller boards.
 Basic support is present already in Marlin Bugfix 2.0x: ExtUI
-I will add support for more displays to Marlin.
 Recommended are 4.3" displays with 480x272 or 5.0" displays with 800x480.
 
 The form factor with the two mounting holes allows replacing a RepRap gfx-display.
@@ -67,3 +66,20 @@ I conclude that the performance of the SPI on these boards is well within the de
 D5019-01-05 with the 3.3V LDO works fine with a EVE3-43G that has been modified to dual supply.
 
 D5019-05-03 is ordered, it has the same 3.3V LDO and speaker as the D5019-01-05.
+
+# EVE_display-adapter for use with breadboards
+
+L-D5019-08-0x: simplified PCB to be used with displays from Matrix Orbital or Riverdi.
+
+The schematic is pretty much the same as L-D5019-01 with a few modifications.
+- all the series resistors are set to 56R
+- the SPI line filter capacitors are set to not populated
+- the "amplifier" circuit and the speaker is gone
+- the 2x5 header for 3D printers is replaced with a 1x7 header 
+- an additional 1x8 header allows to connect a logic-analyzer plus an extra GND pin for split-supply setups
+- the layout and the pinout of the 1x7 header is optimized for the pinout of the 20 pin ffc
+- there is a little more space around the parts to allow for easier soldering
+- pinout printed in copper on the pcb with no solder mask, no more need to check the documentation when connecting the board with jumper wires
+
+The next version will have the 1x8 and 1x7 headers swapped since I always need the second GND pin.
+And the pinout will be printed on the bottom as well to allow for a angled connector on top.
