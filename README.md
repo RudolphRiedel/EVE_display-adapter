@@ -75,11 +75,8 @@ The schematic is pretty much the same as L-D5019-01 with a few modifications.
 - all the series resistors are set to 56R
 - the SPI line filter capacitors are set to not populated
 - the "amplifier" circuit and the speaker is gone
-- the 2x5 header for 3D printers is replaced with a 1x7 header 
+- the 2x5 header for 3D printers is replaced with a 1x7 header
 - an additional 1x8 header allows to connect a logic-analyzer plus an extra GND pin for split-supply setups
 - the layout and the pinout of the 1x7 header is optimized for the pinout of the 20 pin ffc
 - there is a little more space around the parts to allow for easier soldering
 - pinout printed in copper on the pcb with no solder mask, no more need to check the documentation when connecting the board with jumper wires
-
-The next version will have the 1x8 and 1x7 headers swapped since I always need the second GND pin.
-And the pinout will be printed on the bottom as well to allow for a angled connector on top.
